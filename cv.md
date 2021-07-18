@@ -3,4 +3,5 @@
 **email:** margoshain1125@gmail.com
 **phone number:** +79063029984
 
-
+- My goal is to get as much knowledge as possible in the field of frontend development. I have no experience in this field, but I would like to develop in the IT field, so I am ready to study a lot.
+- I know the programming languages C#, Java, JavaScript, PHP, SQL at a basic level. HTML,CSS. I can work on windows and linux operating systems.
